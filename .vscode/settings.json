@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "window.autoDetectColorScheme": true,
+    "window.commandCenter": true,
+    "workbench.editor.wrapTabs": true
+}
